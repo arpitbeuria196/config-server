@@ -8,3 +8,6 @@ management:
       show-details: always
     refresh:
       enabled: true
+  tracing:
+    sampling:
+      probability: 1.0
